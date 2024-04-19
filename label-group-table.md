@@ -1,26 +1,10 @@
-|        MDB        | IDMT |      E-GMD      |             ENST             |     8 Hits    | 3 Hits |
-|:-----------------:|:----:|:---------------:|:----------------------------:|:-------------:|:------:|
-|    crash cymbal   |  　  |   Crash 1 Bow   |         Crash cymbal         |     Cymbal    |   OH   |
-|    china cymbal   |      |   Crash 1 Edge  |      Chinese ride cymbal     |               |        |
-|   splash cymbal   |      |   Crash 2 Bow   |         Splash cymbal        |               |        |
-|         　        |  　  |   Crash 2 Edge  |              　              |               |        |
-|    ride cymbal    |  　  |     RideBow     |          Ride cymbal         |      Ride     |        |
-|  ride cymbal bell |      |     RideEdge    |                              |               |        |
-|         　        |  　  |     RideBell    |              　              |               |        |
-|    open hi-hat    |  　  |   Open Hi-Hat   |         Hi-hat (open)        |  Open hi-hat  |        |
-|         　        |  　  |  OpenHi-HatBow  |              　              |               |        |
-|   closed hi-hat   |  HH  | ClosedHi-HatBow |        Hi-hat (closed)       | Closed hi-hat |        |
-|    pedal hi-hat   |  　  |   PedalHi-Hat   |              　              |               |        |
-|        tom        |  　  |       Tom1      |            Low tom           |      Tom      |   SD   |
-|      high tom     |      |       Tom2      |            Mid tom           |               |        |
-|    high-mid tom   |      |       Tom3      |          Low-mid tom         |               |        |
-|   high floor tom  |      |                 |          Lowest tom          |               |        |
-|   low floor tom   |  　  |        　       |              　              |               |        |
-|       snare       |  SD  |    Snaredrum    |          Snare drum          |     Snare     |        |
-|    snare: drag    |      |                 |                              |               |        |
-| snare: ghost note |  　  |        　       | 　                           |               |        |
-|     side stick    |  　  |     Tom1Rim     |           Rim shot           |    Rim shot   |        |
-|         　        |      |     Tom2Rim     | Low tom,      hit on the rim |               |        |
-|         　        |      |     Tom3Rim     |                              |               |        |
-|         　        |  　  |    Snare rim    |              　              |               |        |
-|        kick       |  KD  |     Kickdrum    |           Bass drum          |      Kick     |   KD   |
+|                             MDB                            | IDMT |                         E-GMD                        |                       ENST                       |     8 Hits    | 3 Hits |
+|:----------------------------------------------------------:|:----:|:----------------------------------------------------:|:------------------------------------------------:|:-------------:|:------:|
+|         crash cymbal, china cymbal, splash cymbal,         |  　  | Crash 1 Bow, Crash 1 Edge, Crash 2 Bow, Crash 2 Edge | Crash cymbal, Chinese ride cymbal, Splash cymbal |     Cymbal    |   OH   |
+|                ride cymbal, ride cymbal bell               |      |            Ride Bow, Ride Edge, Ride Bell            |                    Ride cymbal                   |      Ride     |   OH   |
+|                         open hi-hat                        |      | Open Hi-Hat, Open Hi-HatBow                          | Hi-hat (open)                                    |  Open hi-hat  |   OH   |
+| closed hi-hat, pedal hi-hat                                |  HH  | Closed Hi-HatBow, Pedal Hi-Hat                       | Hi-hat (closed)                                  | Closed hi-hat |   OH   |
+| tom, high tom, high-mid tom, high floor tom, low floor tom |      | Tom 1, Tom 2, Tom 3                                  | Low tom, Mid tom, Low-mid tom, Lowest tom        |      Tom      | SD     |
+| snare, snare: drag, snare: ghost note                      | SD   | Snare drum                                           | Snare drum                                       | Snare         | SD     |
+| side stick                                                 |      | Tom 1 Rim, Tom 2 Rim, Tom 3 Rim, Snare rim           | Rim shot, Low tom, hit on the rim                | Rim shot      | SD     |
+| kick                                                       | KD   | Kick drum                                            | Bass drum                                        | Kick          | KD     |
